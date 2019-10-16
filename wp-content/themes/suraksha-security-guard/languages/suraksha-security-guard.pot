@@ -1,0 +1,373 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Suraksha Security Guard\n"
+"POT-Creation-Date: 2016-02-11 19:00+0530\n"
+"PO-Revision-Date: 2016-02-11 19:00+0530\n"
+"Last-Translator: \n"
+"Language-Team:Luzuk <support@luzuk.com>\n"
+"Language: English\n"
+"MIME-Version: 0.1\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:19
+msgid "Return to home page"
+msgstr ""
+
+#: 404.php:23
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: comments.php:23
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr ""
+
+#: comments.php:32
+msgid "comments title"
+msgstr ""
+
+#: comments.php:59
+msgid "'Comments are closed."
+msgstr ""
+
+#: header.php:51
+msgid "0123456789"
+msgstr ""
+
+#: header.php:63
+msgid "Menu"
+msgstr ""
+
+#: searchform.php:17
+#: searchform.php:12
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:19
+msgid "Placeholder"
+msgstr ""
+
+#: searchform.php:20
+msgid "Submit Button"
+msgstr ""
+
+#: archive.php:49
+#: archive.php:82
+#: archive.php:115
+#: archive.php:148
+#: archive.php:182
+#: archive.php:217
+#: index.php:51
+#: index.php:86
+#: index.php:121
+#: index.php:157
+#: index.php:193
+#: index.php:229
+#: search.php:52
+#: search.php:88
+#: search.php:124
+#: search.php:160
+#: search.php:197
+#: search.php:234
+msgid "Previous page"
+msgstr ""
+
+#: single.php:35
+#: single.php:61
+#: single.php:87
+#: single.php:113
+#: single.php:140
+#: single.php:180
+msgid "Previous post"
+msgstr ""
+
+#: archive.php:50
+#: archive.php:83
+#: archive.php:116
+#: archive.php:149
+#: archive.php:183
+#: archive.php:218
+#: index.php:52
+#: index.php:87
+#: index.php:122
+#: index.php:158
+#: index.php:194
+#: index.php:230
+#: search.php:53
+#: search.php:89
+#: search.php:125
+#: search.php:161
+#: search.php:198
+#: search.php:235
+msgid "Next page"
+msgstr ""
+
+#: single.php:36
+#: single.php:62
+#: single.php:88
+#: single.php:114
+#: single.php:141
+#: single.php:181
+msgid "Next post"
+msgstr ""
+
+#: archive.php:51
+#: archive.php:84
+#: archive.php:117
+#: archive.php:150
+#: archive.php:184
+#: archive.php:219
+#: index.php:53
+#: index.php:88
+#: index.php:123
+#: index.php:159
+#: index.php:195
+#: index.php:231
+#: search.php:54
+#: search.php:90
+#: search.php:126
+#: search.php:162
+#: search.php:199
+#: search.php:236
+#: single.php:182
+msgid "page"
+msgstr ""
+
+#: search.php:16
+msgid "Results For: %s"
+msgstr ""
+
+#: search.php:18
+msgid "Nothing Found"
+msgstr ""
+
+#: single.php:36
+#: single.php:62
+#: single.php:88
+#: single.php:114
+#: single.php:141
+msgid "Next post:"
+msgstr ""
+
+#: single.php:35
+#: single.php:61
+#: single.php:87
+#: single.php:113
+#: single.php:140
+msgid "Previous post:"
+msgstr ""
+
+#: functions.php:34
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:35
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:73
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:75
+msgid "Add widgets here to appear in your sidebar on blog posts and archive pages."
+msgstr ""
+
+#: functions.php:83
+msgid "Sidebar 2"
+msgstr ""
+
+#: functions.php:85
+#: functions.php:95
+msgid "Add widgets here to appear in your pages and posts"
+msgstr ""
+
+#: functions.php:93
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:113
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:123
+msgid "Footer Nav 3"
+msgstr ""
+
+#: functions.php:133
+msgid "Footer Nav 4"
+msgstr ""
+
+#: functions.php:105
+#: functions.php:115
+#: functions.php:125
+#: functions.php:135
+msgid "Add widgets here to appear in your footer."
+msgstr ""
+
+#: functions.php:192
+msgid "Expand child menu"
+msgstr ""
+
+#: functions.php:193
+msgid "Collapse child menu"
+msgstr ""
+
+#: functions.php:235
+msgid "Security Guard WordPress Theme"
+msgstr ""
+
+#: template-parts/post/grid-layout.php:25
+#: template-parts/post/content.php:23
+#: template-parts/post/content-audio:43
+#: template-parts/post/content-gallery:32
+#: template-parts/post/content-image:23
+#: template-parts/post/content-video:43
+msgid "READ MORE"
+msgstr ""
+
+#: page-template/custom-frontpage.php:38
+msgid 'READ MORE'
+msgstr ""
+
+#: inc/customizer.php:16
+msgid "Theme Settings"
+msgstr ""
+
+#: inc/customizer.php:17
+msgid "Description of what this panel does."
+msgstr ""
+
+#: inc/customizer.php:21
+msgid "General Settings"
+msgstr ""
+
+#: inc/customizer.php:29
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/customizer.php:35
+msgid "Do you want this section"
+msgstr ""
+
+#: inc/customizer.php:38
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/customizer.php:39
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/customizer.php:40
+msgid "One Column"
+msgstr ""
+
+#: inc/customizer.php:41
+msgid "Three Columns"
+msgstr ""
+
+#: inc/customizer.php:42
+msgid "Four Columns"
+msgstr ""
+
+#: inc/customizer.php:43
+msgid "Grid Layout"
+msgstr ""
+
+#: inc/customizer.php:49
+msgid "Contact Details"
+msgstr ""
+
+#: inc/customizer.php:59
+msgid 'Contact Number'
+msgstr ""
+
+#: inc/customizer.php:70
+msgid "Email Address"
+msgstr ""
+
+#: inc/customizer.php:78
+msgid "Social Icon Section"
+msgstr ""
+
+#: inc/customizer.php:79
+msgid "Add Header Content here"
+msgstr ""
+
+#: inc/customizer.php:89
+msgid "Add Facebook link"
+msgstr ""
+
+#: inc/customizer.php:100
+msgid "Add Twitter link"
+msgstr ""
+
+#: inc/customizer.php:111
+msgid "Add Instagram link"
+msgstr ""
+
+#: inc/customizer.php:122
+msgid "Add Pinterest link"
+msgstr ""
+
+#: inc/customizer.php:133
+msgid "Add Whatsapp link"
+msgstr ""
+
+#: inc/customizer.php:144
+msgid "Add Linkedin link"
+msgstr ""
+
+#: inc/customizer.php:152
+msgid 'Slider Settings'
+msgstr ""
+
+#: inc/customizer.php:165
+msgid 'Select Slide Image Page'
+msgstr ""
+
+#: inc/customizer.php:173
+msgid 'Our Services'
+msgstr ""
+
+#: inc/customizer.php:174
+msgid 'This section will appear below the slider.'
+msgstr ""
+
+#: inc/customizer.php:183
+msgid 'Section Title'
+msgstr ""
+
+#: inc/customizer.php:196
+msgid 'Select Service Page'
+msgstr ""
+
+#: inc/customizer.php:204
+#: inc/customizer.php:214
+msgid 'Footer Text'
+msgstr ""
+
+#: inc/customizer.php:246
+msgid 'Front Page Section %d Content'
+msgstr ""
+
+#: inc/customizer.php:247
+msgid 'Select pages to feature in each area from the dropdowns. Add an image to a section by setting a featured image in the page editor. Empty sections will not be displayed.'
+msgstr ""
+
+#: inc/customizer.php:355
+msgid 'Suraksha Security Pro'
+msgstr ""
+
+#: inc/customizer.php:356
+msgid 'Go Pro'
+msgstr ""
+
